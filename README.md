@@ -27,11 +27,7 @@
    ```bash
     python3 -m venv env
    ```
-3. **Install Required Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-5. **Activate the virtual environment:**
+3. **Activate the virtual environment:**
    
     Windows
     ```bash
@@ -41,8 +37,11 @@
     ```bash
     source env/bin/activate
     ```
-  
-7. **Run the application:**
+4. **Install Required Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```  
+5. **Run the application:**
     ```bash
     python main.py
     ```
