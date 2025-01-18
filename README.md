@@ -23,10 +23,17 @@
     ```bash
     git clone https://github.com/jhannah24/dfw-pdf-summarizer.git
     ```
-  
-2. **Activate the virtual environment:**
-
-     Windows
+2. **Create a virtual environment:**
+   ```bash
+    python3 -m venv env
+   ```
+3. **Install Required Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+5. **Activate the virtual environment:**
+   
+    Windows
     ```bash
     .\env\Scripts\activate
     ```
@@ -35,7 +42,7 @@
     source env/bin/activate
     ```
   
-4. **Run the application:**
+7. **Run the application:**
     ```bash
     python main.py
     ```
