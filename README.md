@@ -21,7 +21,7 @@
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/dfw-weighs-in.git
+    git clone https://github.com/jhannah24/dfw-weighs-in.git
     ```
   
 2. **Activate the virtual environment:**
