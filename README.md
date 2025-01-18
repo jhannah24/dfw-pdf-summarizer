@@ -19,23 +19,23 @@
 
 ## Installation and Setup
 
-### Clone the repository:  
-```bash
-git clone https://github.com/your-username/dfw-weighs-in.git
-```
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/dfw-weighs-in.git
+    ```
+  
+2. **Activate the virtual environment:**
 
-### Activate the virtual environment:
-Windows
-```bash
-.\env\Scripts\activate
-```
-
-Linux/MacOS
-```bash
-source env/bin/activate
-```
-
-### Run the application:
-```bash
-python main.py
-```
+     Windows
+    ```bash
+    .\env\Scripts\activate
+    ```
+    Linux/MacOS
+    ```bash
+    source env/bin/activate
+    ```
+  
+4. **Run the application:**
+    ```bash
+    python main.py
+    ```
